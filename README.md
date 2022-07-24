@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-![Deliverable_1.1_Screenshot](Deliverable_1.1.png)
+![Deliverable_1.1_Screenshot](https://github.com/heartgears/MechaCar_Statistical_Analysis/blob/main/Challenge/Deliverable_1.1.png)
 
 ![Deliverable_1.2_Screenshot](Deliverable_1.2.png)
 
