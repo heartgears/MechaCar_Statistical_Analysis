@@ -20,3 +20,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![Deliverable_3.1_Screenshot](https://github.com/heartgears/MechaCar_Statistical_Analysis/blob/main/Challenge/Deliverable_3.1.png)
 
 ![Deliverable_3.2_Screenshot](https://github.com/heartgears/MechaCar_Statistical_Analysis/blob/main/Challenge/Deliverable_3.2.png)
+
+## Study Design: MechaCar vs Competition
+
+Instructions: Write a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+**What metric or metrics are you going to test?**
+Some of the most important metrics to consumers include cost - overall cost, fuel efficiency and maintenance costs all strike at the core of that.
+
+**What is the null hypothesis or alternative hypothesis?**
+The Null Hypothesis would be that MechaCar is outperforming its competitors based on the selected variables and criteria. The Alternative Hypothesis would negate this, that MechaCar is not outperforming the competition.
+
+**What statistical test would you use to test the hypothesis? And why?**
+A multiple linear regression would be the most robust way of determining how these different variables interact, correlate, and potentially drive each other.
+
+**What data is needed to run the statistical test?**
+Data would need to be collected from both MechaCar and its competitors concerning overall cost, fuel efficiency and maintenance; this data would all need to be commensurable. 
